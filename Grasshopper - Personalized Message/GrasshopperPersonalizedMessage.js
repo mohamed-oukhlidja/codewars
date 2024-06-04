@@ -17,7 +17,7 @@ function greet(name, owner) {
   return result;
 }
 
-// test the function greet
+// test the function greet difrent cases 
 const testGreat = () => {
 
     // owner test name === owner
